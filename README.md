@@ -75,3 +75,5 @@ The SOLID principles are applicable to any object-oriented code. Here are some t
 
 The SOLID principles provide valuable guidelines for object-oriented design. By adhering to these principles, you can create code that is more understandable, maintainable, and extensible.
 
+Check the codes for better understanding :point_up_2:
+
