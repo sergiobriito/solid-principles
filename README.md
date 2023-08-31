@@ -16,13 +16,39 @@ In software development, **Object-Oriented Design (OOD)** plays a crucial role w
 
 - **Single Responsibility Principle (SRP):** A class should have only one reason to change. This means that each class should be responsible for a single task or functionality. This approach enhances code understandability, testability, and maintainability.
 
+<div align="center">
+<img src="https://github.com/sergiobriito/solid-principles/assets/64617586/a9c935bd-3fa6-4034-a3e4-6b2ee8e019be" alt="drawing" width="500"/>
+</div>
+
 - **Open/Closed Principle (OCP):** Classes should be open for extension but closed for modification. New features can be added to classes without altering existing code. This can be achieved by using interfaces and abstract classes.
+
+<div align="center">
+<img src="https://github.com/sergiobriito/solid-principles/assets/64617586/3dd0f078-fe8c-40ad-bc41-b52bf01a8930" alt="drawing" width="500"/>
+</div>
+
 
 - **Liskov Substitution Principle (LSP):** Objects of a subtype must be substitutable for objects of their base type. If class A is a subtype of class B, any code working with type B objects should also work with type A objects.
 
+
+<div align="center">
+<img src="https://github.com/sergiobriito/solid-principles/assets/64617586/da198f8e-072f-4d7d-9644-8f08eea43731" alt="drawing" width="500"/>
+</div>
+
+
 - **Interface Segregation Principle (ISP):** Interfaces should be small and focused, containing only methods relevant to a specific object type. This enhances code usability and understandability.
 
+
+<div align="center">
+<img src="https://github.com/sergiobriito/solid-principles/assets/64617586/1d1fda37-bbbc-4989-8a6f-dbf6aa745b17" alt="drawing" width="500"/>
+</div>
+
+
 - **Dependency Inversion Principle (DIP):** High-level modules should not depend on low-level modules. Instead, both should depend on abstractions. This approach increases code flexibility and ease of modification.
+
+<div align="center">
+<img src="https://github.com/sergiobriito/solid-principles/assets/64617586/8f970413-8b8f-4adc-9063-e660d39b574f" alt="drawing" width="500"/>
+</div>
+
 
 ## Benefits of Following the SOLID Principles
 
